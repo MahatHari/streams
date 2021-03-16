@@ -1,7 +1,7 @@
 import React from 'react';
 
-function StreamCreate() {
-  return <div></div>;
-}
+const StreamCreate = () => {
+  return <div>StreamCreate</div>;
+};
 
 export default StreamCreate;
